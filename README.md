@@ -423,4 +423,3 @@ unsure how to format a particular block of code.
 - [PEP 8 - Style Guide for Python Code][pep 8]
 
 [pep 8]: https://peps.python.org/pep-0008/
-
